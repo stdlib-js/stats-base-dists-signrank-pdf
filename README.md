@@ -48,13 +48,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-signrank-pdf@deno/mod.js';
+import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-signrank-pdf@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-signrank-pdf@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-signrank-pdf@v0.1.0-deno/mod.js';
 ```
 
 #### pdf( x, n )
@@ -128,7 +128,7 @@ y = mypdf( 17.0 );
 ```javascript
 import ceil from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil@deno/mod.js';
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-signrank-pdf@deno/mod.js';
+import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-signrank-pdf@v0.1.0-deno/mod.js';
 
 var n;
 var x;
