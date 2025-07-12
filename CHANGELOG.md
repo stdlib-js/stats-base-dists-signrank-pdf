@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-11)
+## Unreleased (2025-07-12)
 
 <section class="features">
 
@@ -31,9 +31,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3884](https://github.com/stdlib-js/stdlib/issues/3884)
+[#3884](https://github.com/stdlib-js/stdlib/issues/3884), [#7624](https://github.com/stdlib-js/stdlib/issues/7624)
 
 </section>
 
@@ -45,6 +45,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a63b948`](https://github.com/stdlib-js/stdlib/commit/a63b94861bb8c0ba67e67f4a3aaec8f7f8dd59f0) - **chore:** address commit comments for commit `e6823fe` [(#7632)](https://github.com/stdlib-js/stdlib/pull/7632) _(by Anmol Sah)_
 -   [`90f0ddf`](https://github.com/stdlib-js/stdlib/commit/90f0ddf5cf57ea682898f62445a7a018fa582386) - **fix:** add missing decimals _(by Athan Reines)_
 -   [`6e8daa6`](https://github.com/stdlib-js/stdlib/commit/6e8daa697b0d0cd11b156fe844cbd7a54fbdc89a) - **fix:** use correct dependency name _(by Philipp Burckhardt)_
 -   [`e6823fe`](https://github.com/stdlib-js/stdlib/commit/e6823fe95a468d4c981dffb05dbc04149e15083d) - **feat:** add C implementation for `stats/base/dists/signrank/pdf` [(#4637)](https://github.com/stdlib-js/stdlib/pull/4637) _(by Lokesh Ranjan, Philipp Burckhardt)_
@@ -61,8 +62,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Anmol Sah
 -   Athan Reines
 -   Lokesh Ranjan
 -   Philipp Burckhardt
