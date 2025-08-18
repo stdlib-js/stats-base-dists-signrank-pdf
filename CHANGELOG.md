@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-12)
+## Unreleased (2025-08-18)
 
 <section class="features">
 
@@ -45,6 +45,9 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`a63b948`](https://github.com/stdlib-js/stdlib/commit/a63b94861bb8c0ba67e67f4a3aaec8f7f8dd59f0) - **chore:** address commit comments for commit `e6823fe` [(#7632)](https://github.com/stdlib-js/stdlib/pull/7632) _(by Anmol Sah)_
 -   [`90f0ddf`](https://github.com/stdlib-js/stdlib/commit/90f0ddf5cf57ea682898f62445a7a018fa582386) - **fix:** add missing decimals _(by Athan Reines)_
 -   [`6e8daa6`](https://github.com/stdlib-js/stdlib/commit/6e8daa697b0d0cd11b156fe844cbd7a54fbdc89a) - **fix:** use correct dependency name _(by Philipp Burckhardt)_
