@@ -336,7 +336,7 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-base-dists-signrank-pdf/main/LICENSE
 
-[pdf]: https://en.wikipedia.org/wiki/Cumulative_distribution_function
+[pdf]: https://en.wikipedia.org/wiki/Probability_density_function
 
 </section>
 
