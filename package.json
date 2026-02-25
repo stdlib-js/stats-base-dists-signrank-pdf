@@ -62,7 +62,6 @@
     "@stdlib/random-array-discrete-uniform": "^0.2.2",
     "@stdlib/random-array-uniform": "^0.2.2",
     "@stdlib/random-base-randu": "^0.2.3",
-    "@stdlib/stats-base-dists-signrank-pdf": "^0.3.1",
     "@stdlib/string-format": "^0.2.3",
     "@stdlib/utils-try-require": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
