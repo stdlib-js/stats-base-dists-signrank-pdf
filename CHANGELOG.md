@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-12)
+## Unreleased (2026-11-01)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8f62240`](https://github.com/stdlib-js/stdlib/commit/8f622403b8f6ff3781a17dc7ceb077e341e91aa3) - **docs:** clean-up [(#16084)](https://github.com/stdlib-js/stdlib/pull/16084) _(by Philipp Burckhardt)_
 -   [`4fe3c4a`](https://github.com/stdlib-js/stdlib/commit/4fe3c4a9258e5c9f22d1879690f3147e46439e89) - **test:** migrate `stats/base/dists/signrank/pdf` to ULP-based assertions [(#15899)](https://github.com/stdlib-js/stdlib/pull/15899) _(by Athan Reines)_
 -   [`112dcfc`](https://github.com/stdlib-js/stdlib/commit/112dcfcf5333be07ec3986193a011220762a0591) - **docs:** fix string interpolation and missing JSDoc annotations [(#13284)](https://github.com/stdlib-js/stdlib/pull/13284) _(by Philipp Burckhardt)_
 -   [`bd60a20`](https://github.com/stdlib-js/stdlib/commit/bd60a209ca4b0989663edbbc591bc7da80294827) - **build:** update R version to 4.2.0 in lint workflows [(#11262)](https://github.com/stdlib-js/stdlib/pull/11262) _(by Mara Averick)_
